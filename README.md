@@ -3,7 +3,7 @@ Hier kannst du Monopoly herunterladen
 
 Sourcecode: https://github.com/ChrisiCrafter27/Monopoly
 
-Präsentation: https://1drv.ms/p/s!AnEfqtvL4uzJhc9yeCmQGWN-7-sY_Q?e=D9z8UM
+Präsentation: https://1drv.ms/p/s!AnEfqtvL4uzJhc9yeCmQGWN-7-sY_Q?e=qGgdGV
 
 Dokumentation: https://github.com/ChrisiCrafter27/Monopoly-Download/raw/main/MonopolyDoc.pdf
 
