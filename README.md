@@ -14,6 +14,7 @@ Regeln: https://winningmoves.de/media/95/32/ed/1625743255/Mega_Monopoly.pdf
 -------------------------------------------------------------------------------------------------------
 
 Anleitung für mehrere Spieler in verschiedenen Netzwerken:
+
 Man kann auch in unterschiedlichen Netzwerken zusammenspielen. Dazu benötigen alle Spieler einen VPN
 wie Hamatch (kostenlos herunterladen auf vpn.net). Wenn man mit diesem verbunden ist muss man nach dem
 Starten von Monopoly unter "Netzwerk" das Hamatchi Adapter auswählen. Anschließen kann ein Spieler ein
