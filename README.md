@@ -1,7 +1,5 @@
 # Monopoly-Download
 
--------------------------------------------------------------------------------------------------------
-
 Herunterladen: https://github.com/ChrisiCrafter27/Monopoly-Download/raw/main/Monopoly-1.0.jar
 
 Regeln: https://winningmoves.de/media/95/32/ed/1625743255/Mega_Monopoly.pdf
