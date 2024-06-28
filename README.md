@@ -1,5 +1,5 @@
 # Monopoly-Download
-Hier kannst du Monopoly herunterladen
+Hier kannst du Monopoly herunterladen!
 
 Herunterladen: https://github.com/ChrisiCrafter27/Monopoly-Download/raw/main/Monopoly-1.0.jar
 
