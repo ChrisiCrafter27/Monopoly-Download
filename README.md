@@ -4,7 +4,7 @@ Hier kann man Monopoly herunterladen!
 
 -------------------------------------------------------------------------------------------------------
 
-UPDATE 1.2: Handeln. Einfache die Straße auswählen, die man kaufen möchte, und einen Geldbetrag bieten.
+UPDATE 1.2: Handeln - Einfache die Straße auswählen, die man kaufen möchte, und einen Geldbetrag bieten.
 
 -------------------------------------------------------------------------------------------------------
 
