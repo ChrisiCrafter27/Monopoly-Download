@@ -4,7 +4,11 @@ Hier kann man Monopoly herunterladen!
 
 -------------------------------------------------------------------------------------------------------
 
-Herunterladen: https://github.com/ChrisiCrafter27/Monopoly-Download/raw/main/Monopoly-1.1.jar
+UPDATE 1.2: Handeln. Einfache die Straße auswählen, die man kaufen möchte, und einen Geldbetrag bieten.
+
+-------------------------------------------------------------------------------------------------------
+
+Herunterladen: https://github.com/ChrisiCrafter27/Monopoly-Download/raw/main/Monopoly-1.2.jar
 
 Regeln: https://winningmoves.de/media/95/32/ed/1625743255/Mega_Monopoly.pdf
 
